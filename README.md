@@ -34,9 +34,9 @@
 
 ### 
 
-<div align="left">
-    [![My Skills](https://skillicons.dev/icons?i=c,py,bash,css,html)](https://skillicons.dev)
-</div>
+```
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,css,html)](https://skillicons.dev)
+```
 
 ### 
 
